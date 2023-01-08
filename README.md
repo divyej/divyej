@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyej
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning firebase
 - 💞️ I’m looking to collaborate on frontEnd projects
 - 📫 How to reach me divj32459@gmail.com
 
