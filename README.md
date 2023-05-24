@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divyej
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning firebase and DSA
-- 💞️ I’m looking to collaborate on frontEnd projects
+- 🌱 I’m currently learning DSA and web3
+- 💞️ I’m looking to collaborate on fullStack projects
 - 📫 How to reach me divj32459@gmail.com
 
 <!---
