@@ -98,8 +98,9 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-
+<!-- BLOG-POST-LIST:START -->
+- [JSON Web Token &lpar;JWT&rpar; explained!](https://djcodes.hashnode.dev/json-web-token-jwt-explained)
+- [API for Noobies :&rpar;](https://djcodes.hashnode.dev/api-for-noobies)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
