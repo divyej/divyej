@@ -99,6 +99,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Node.js HTTP magic! - A guide for Beginners!!](https://djcodes.hashnode.dev/nodejs-http-magic-a-guide-for-beginners)
 - [JSON Web Token &lpar;JWT&rpar; explained!](https://djcodes.hashnode.dev/json-web-token-jwt-explained)
 - [API for Noobies :&rpar;](https://djcodes.hashnode.dev/api-for-noobies)
 <!-- BLOG-POST-LIST:END -->  
