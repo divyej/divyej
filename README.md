@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on freelance projects  
   
 
-- 🌱 I’m currently learning Go and Dsa  
+- 🌱 I’m currently learning Node and Dsa  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
